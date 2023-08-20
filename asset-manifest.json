@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/%7Banotacao-react%7D/static/css/main.c953453a.css",
+    "main.js": "/%7Banotacao-react%7D/static/js/main.ae5c4854.js",
+    "static/js/787.ae73c867.chunk.js": "/%7Banotacao-react%7D/static/js/787.ae73c867.chunk.js",
+    "index.html": "/%7Banotacao-react%7D/index.html",
+    "main.c953453a.css.map": "/%7Banotacao-react%7D/static/css/main.c953453a.css.map",
+    "main.ae5c4854.js.map": "/%7Banotacao-react%7D/static/js/main.ae5c4854.js.map",
+    "787.ae73c867.chunk.js.map": "/%7Banotacao-react%7D/static/js/787.ae73c867.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c953453a.css",
+    "static/js/main.ae5c4854.js"
+  ]
+}
